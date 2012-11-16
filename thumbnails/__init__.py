@@ -16,7 +16,6 @@
 
 __author__ = 'Jose Maria Zambrana Arze'
 __email__ = 'contact@josezambrana.com'
-__version__ = '0.1'
 __copyright__ = 'Copyright 2012, Mandla Web Studio'
 
 
