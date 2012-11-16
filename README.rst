@@ -1,6 +1,6 @@
-===========
-Zero Common
-===========
+===============
+Zero Thumbnails
+===============
 
 Pretty simple app to add and manage thumbnails in your models
 
